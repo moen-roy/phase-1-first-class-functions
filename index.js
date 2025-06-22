@@ -8,3 +8,8 @@ function returnsANamedFunction(){
     }
 }
 
+function returnsAnAnonymousFunction(){
+    return function() {
+
+    }
+}
